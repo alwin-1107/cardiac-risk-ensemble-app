@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# NOTE: models/ensemble_model.pkl is intentionally NOT ignored.
+# Streamlit Community Cloud deploys straight from the repo and needs
+# the trained model file to be present -- it can't run train.py on
+# its own for you.
