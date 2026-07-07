@@ -9,7 +9,7 @@ A predictive model for heart disease diagnosis built with ensemble machine
 learning (Gradient Boosting, XGBoost, and a Stacking Classifier), deployed
 as an interactive Streamlit web app.
 
-**[Live Demo](https://share.streamlit.io)** *(update this link once deployed)* · **[Full Report (PDF)](https://github.com/alwin-1107/cardiac-risk-ensemble-app/blob/main/reports/Ensemble_learning-heart-disease-prediction_Report.pdf)** · **[EDA Notebook](https://github.com/alwin-1107/cardiac-risk-ensemble-app/blob/main/notebooks/ensemble-learning-heat_disease_predictor-training.ipynb)**
+**[Live Demo](https://cardiac-risk-ensemble-app.streamlit.app/)** · **[Full Report (PDF)](https://github.com/alwin-1107/cardiac-risk-ensemble-app/blob/main/reports/Ensemble_learning-heart-disease-prediction_Report.pdf)** · **[EDA Notebook](https://github.com/alwin-1107/cardiac-risk-ensemble-app/blob/main/notebooks/ensemble-learning-heat_disease_predictor-training.ipynb)**
 
 > **Disclaimer:** This is an academic / portfolio project demonstrating
 > ensemble learning techniques. It is **not** a medical device and should
